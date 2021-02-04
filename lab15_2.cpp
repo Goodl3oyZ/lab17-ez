@@ -23,5 +23,3 @@ int main(){
 	findColSum(dPtr,result,N,M); 
 	showData(result,1,M);
 }
-
-//Write definition of randData(), showData() and findColSum()
