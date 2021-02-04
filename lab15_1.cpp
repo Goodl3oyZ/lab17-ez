@@ -11,7 +11,7 @@ void showData(double *,int,int);
 
 int main(){
 	srand(time(0));
-	const int N = 7, M = 7;
+	const int N = 6, M = 8;
 	double data[N][M] = {};
 	double result[N] = {};
 	double *dPtr = data[0];
