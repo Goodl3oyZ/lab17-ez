@@ -23,5 +23,3 @@ int main(){
 	findRowSum(dPtr,result,N,M);
 	showData(result,N,1);
 }
-
-//Write definition of randData(), showData() and findRowSum()
